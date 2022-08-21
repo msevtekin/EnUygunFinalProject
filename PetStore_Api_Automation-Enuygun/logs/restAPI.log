@@ -1,0 +1,110 @@
+2022-08-19 23:12:10 INFO  API:30 - DELETE Process Working - 200 
+2022-08-19 23:12:10 INFO  API:38 - POST Process with PetID
+2022-08-19 23:12:16 INFO  API:43 - PUT Process with PetID
+2022-08-19 23:12:23 INFO  API:28 - Get Find By ID Also Status as Sold Process Working - 200 
+2022-08-19 23:12:23 INFO  API:36 - POST Process with PetID
+2022-08-19 23:12:24 INFO  API:41 - PUT Process with PetID
+2022-08-19 23:12:37 INFO  API:66 - Get Find By ID Also Status as Pending Process Working - 200 
+2022-08-19 23:12:37 INFO  API:74 - POST Process with PetID
+2022-08-19 23:12:37 INFO  API:79 - PUT Process with PetID
+2022-08-19 23:12:50 INFO  API:27 - Get Find By Status Process Working - 200 
+2022-08-19 23:12:50 INFO  API:35 - POST Process with PetID
+2022-08-19 23:12:53 INFO  API:59 - Get Find By Status -Available- Process Working - 200 
+2022-08-19 23:12:53 INFO  API:67 - POST Process with PetID
+2022-08-19 23:12:56 INFO  API:91 - Get Find By Status -PENDING- Process Working - 200 
+2022-08-19 23:12:56 INFO  API:99 - POST Process with PetID
+2022-08-19 23:12:59 INFO  API:29 - POST Process Working - 200 
+2022-08-19 23:13:00 INFO  API:56 - POST Process Working - 500 
+2022-08-19 23:13:01 INFO  API:81 - POST Process Working - 405 
+2022-08-19 23:13:02 INFO  API:29 - PUT Process Working - 200 
+2022-08-19 23:13:02 INFO  API:37 - POST Process with PetID
+2022-08-19 23:13:03 INFO  API:62 - POST Process Working - 500 
+2022-08-19 23:13:03 INFO  API:70 - POST Process with PetID
+2022-08-19 23:13:05 INFO  API:93 - POST Process Working - 405 
+2022-08-19 23:46:22 INFO  API:28 - Get Find By ID Also Status as Sold Process Working - 200 
+2022-08-19 23:46:22 INFO  API:36 - POST Process with PetID
+2022-08-19 23:46:29 INFO  API:41 - PUT Process with PetID
+2022-08-19 23:46:41 INFO  API:66 - Get Find By ID Also Status as Pending Process Working - 200 
+2022-08-19 23:46:41 INFO  API:74 - POST Process with PetID
+2022-08-19 23:46:42 INFO  API:79 - PUT Process with PetID
+2022-08-21 21:10:59 INFO  API:28 - Get Find By ID Also Status as Sold Process Working - 200 
+2022-08-21 21:10:59 INFO  API:36 - POST Process with PetID
+2022-08-21 21:11:02 INFO  API:41 - PUT Process with PetID
+2022-08-21 21:11:15 INFO  API:66 - Get Find By ID Also Status as Pending Process Working - 200 
+2022-08-21 21:11:15 INFO  API:74 - POST Process with PetID
+2022-08-21 21:11:16 INFO  API:79 - PUT Process with PetID
+2022-08-21 21:13:25 INFO  API:28 - Get Find By ID Also Status as Sold Process Working - 200 
+2022-08-21 21:13:25 INFO  API:36 - POST Process with PetID
+2022-08-21 21:13:27 INFO  API:41 - PUT Process with PetID
+2022-08-21 21:13:41 INFO  API:66 - Get Find By ID Also Status as Pending Process Working - 200 
+2022-08-21 21:13:41 INFO  API:74 - POST Process with PetID
+2022-08-21 21:13:42 INFO  API:79 - PUT Process with PetID
+2022-08-21 21:14:27 INFO  API:30 - DELETE Process Working - 200 
+2022-08-21 21:14:27 INFO  API:38 - POST Process with PetID
+2022-08-21 21:14:30 INFO  API:43 - PUT Process with PetID
+2022-08-21 21:14:38 INFO  API:28 - Get Find By ID Also Status as Sold Process Working - 200 
+2022-08-21 21:14:38 INFO  API:36 - POST Process with PetID
+2022-08-21 21:14:39 INFO  API:41 - PUT Process with PetID
+2022-08-21 21:14:53 INFO  API:66 - Get Find By ID Also Status as Pending Process Working - 200 
+2022-08-21 21:14:53 INFO  API:74 - POST Process with PetID
+2022-08-21 21:14:54 INFO  API:79 - PUT Process with PetID
+2022-08-21 21:15:07 INFO  API:27 - Get Find By Status Process Working - 200 
+2022-08-21 21:15:07 INFO  API:35 - POST Process with PetID
+2022-08-21 21:15:11 INFO  API:59 - Get Find By Status -Available- Process Working - 200 
+2022-08-21 21:15:11 INFO  API:67 - POST Process with PetID
+2022-08-21 21:15:15 INFO  API:91 - Get Find By Status -PENDING- Process Working - 200 
+2022-08-21 21:15:15 INFO  API:99 - POST Process with PetID
+2022-08-21 21:15:19 INFO  API:29 - POST Process Working - 200 
+2022-08-21 21:15:20 INFO  API:56 - POST Process Working - 500 
+2022-08-21 21:15:21 INFO  API:81 - POST Process Working - 405 
+2022-08-21 21:15:22 INFO  API:29 - PUT Process Working - 200 
+2022-08-21 21:15:22 INFO  API:37 - POST Process with PetID
+2022-08-21 21:15:24 INFO  API:62 - POST Process Working - 500 
+2022-08-21 21:15:24 INFO  API:70 - POST Process with PetID
+2022-08-21 21:15:26 INFO  API:93 - POST Process Working - 405 
+2022-08-21 21:28:37 INFO  API:30 - DELETE Process Working - 200 
+2022-08-21 21:28:37 INFO  API:38 - POST Process with PetID
+2022-08-21 21:28:39 INFO  API:43 - PUT Process with PetID
+2022-08-21 21:28:47 INFO  API:28 - Get Find By ID Also Status as Sold Process Working - 200 
+2022-08-21 21:28:47 INFO  API:36 - POST Process with PetID
+2022-08-21 21:28:48 INFO  API:41 - PUT Process with PetID
+2022-08-21 21:29:01 INFO  API:66 - Get Find By ID Also Status as Pending Process Working - 200 
+2022-08-21 21:29:01 INFO  API:74 - POST Process with PetID
+2022-08-21 21:29:02 INFO  API:79 - PUT Process with PetID
+2022-08-21 21:29:16 INFO  API:27 - Get Find By Status Process Working - 200 
+2022-08-21 21:29:16 INFO  API:35 - POST Process with PetID
+2022-08-21 21:29:20 INFO  API:59 - Get Find By Status -Available- Process Working - 200 
+2022-08-21 21:29:20 INFO  API:67 - POST Process with PetID
+2022-08-21 21:29:25 INFO  API:91 - Get Find By Status -PENDING- Process Working - 200 
+2022-08-21 21:29:25 INFO  API:99 - POST Process with PetID
+2022-08-21 21:29:29 INFO  API:29 - POST Process Working - 200 
+2022-08-21 21:29:30 INFO  API:56 - POST Process Working - 500 
+2022-08-21 21:29:31 INFO  API:81 - POST Process Working - 405 
+2022-08-21 21:29:32 INFO  API:29 - PUT Process Working - 200 
+2022-08-21 21:29:32 INFO  API:37 - POST Process with PetID
+2022-08-21 21:29:34 INFO  API:62 - POST Process Working - 500 
+2022-08-21 21:29:34 INFO  API:70 - POST Process with PetID
+2022-08-21 21:29:36 INFO  API:93 - POST Process Working - 405 
+2022-08-21 22:06:38 INFO  API:30 - DELETE Process Working - 200 
+2022-08-21 22:06:38 INFO  API:38 - POST Process with PetID
+2022-08-21 22:06:41 INFO  API:43 - PUT Process with PetID
+2022-08-21 22:06:49 INFO  API:28 - Get Find By ID Also Status as Sold Process Working - 200 
+2022-08-21 22:06:49 INFO  API:36 - POST Process with PetID
+2022-08-21 22:06:50 INFO  API:41 - PUT Process with PetID
+2022-08-21 22:07:03 INFO  API:66 - Get Find By ID Also Status as Pending Process Working - 200 
+2022-08-21 22:07:04 INFO  API:74 - POST Process with PetID
+2022-08-21 22:07:05 INFO  API:79 - PUT Process with PetID
+2022-08-21 22:07:18 INFO  API:27 - Get Find By Status Process Working - 200 
+2022-08-21 22:07:18 INFO  API:35 - POST Process with PetID
+2022-08-21 22:07:22 INFO  API:59 - Get Find By Status -Available- Process Working - 200 
+2022-08-21 22:07:22 INFO  API:67 - POST Process with PetID
+2022-08-21 22:07:28 INFO  API:91 - Get Find By Status -PENDING- Process Working - 200 
+2022-08-21 22:07:28 INFO  API:99 - POST Process with PetID
+2022-08-21 22:07:32 INFO  API:29 - POST Process Working - 200 
+2022-08-21 22:07:33 INFO  API:55 - POST Process Working - 500 
+2022-08-21 22:07:34 INFO  API:80 - POST Process Working - 405 
+2022-08-21 22:07:35 INFO  API:29 - PUT Process Working - 200 
+2022-08-21 22:07:35 INFO  API:37 - POST Process with PetID
+2022-08-21 22:07:37 INFO  API:62 - POST Process Working - 500 
+2022-08-21 22:07:37 INFO  API:70 - POST Process with PetID
+2022-08-21 22:07:40 INFO  API:93 - POST Process Working - 405 
